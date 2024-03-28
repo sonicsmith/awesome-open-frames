@@ -54,47 +54,6 @@ _For comprehensive guidance on integrating Open Frames with Framesjs, refer to t
 
 Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
 
-### Step 2: Verifying requests
-
-To start, add the necessary XMTP packages to your project:
-
-<Tabs >
-<TabItem value="npm" label="npm" >
-
-```bash
-yarn install @xmtp/frames-validator
-```
-
-</TabItem>
-<TabItem value="yarn" label="Yarn" >
-
-```bash
-yarn add @xmtp/frames-validator
-```
-
-</TabItem>
-<TabItem value="bun" label="bun" >
-
-Currently, Bun does not offer full compatibility with XMTP. It is recommended to use Yarn 4 as an alternative to prevent any unforeseen issues.
-
-</TabItem>
-</Tabs>
-
-Implement message validation using `@xmtp/frames-validator` to ensure the authenticity of incoming POST requests. This step is crucial for security, especially when dealing with multiple protocols.
-
-```tsx
-import { validateFramesPost } from '@xmtp/frames-validator';
-
-export function handler(requestBody: any) {
-  if (requestBody.clientProtocol.startsWith('xmtp')) {
-    const { verifiedWalletAddress } = await validateFramesPost(requestBody);
-    // Handle verified XMTP payload
-  } else {
-    // Handle Farcaster or other protocol payloads
-  }
-}
-```
-
 ### Next steps
 
 - Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).

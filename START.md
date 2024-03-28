@@ -50,32 +50,52 @@ const handleRequest = frames(async (ctx) => {
 
 _For comprehensive guidance on integrating Open Frames with Framesjs, refer to the official [documentation](https://framesjs.org/reference/js/xmtp)._
 
+## Step 2: Verifying requests
+
+To start, add the necessary XMTP packages to your project:
+
+<Tabs >
+<TabItem value="npm" label="npm" >
+
+```bash
+yarn install @xmtp/frames-validator
+```
+
+</TabItem>
+<TabItem value="yarn" label="Yarn" >
+
+```bash
+yarn add @xmtp/frames-validator
+```
+
+</TabItem>
+<TabItem value="bun" label="bun" >
+
+Currently, Bun does not offer full compatibility with XMTP. It is recommended to use Yarn 4 as an alternative to prevent any unforeseen issues.
+
+</TabItem>
+</Tabs>
+
+Implement message validation using `@xmtp/frames-validator` to ensure the authenticity of incoming POST requests. This step is crucial for security, especially when dealing with multiple protocols.
+
+```tsx
+import { validateFramesPost } from '@xmtp/frames-validator';
+
+export function handler(requestBody: any) {
+  if (requestBody.clientProtocol.startsWith('xmtp')) {
+    const { verifiedWalletAddress } = await validateFramesPost(requestBody);
+    // Handle verified XMTP payload
+  } else {
+    // Handle Farcaster or other protocol payloads
+  }
+}
+```
+
 **Frog**
 
 Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
 
 _Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard)._
 
-### Step 2: Add Your Frame to the Compatible Frames Section
-
-1. **Fork the [Awesome-Open-Frames Repo](https://github.com/open-frames/awesome-open-frames)**: Navigate to the GitHub page of the Awesome-Open-Frames repository and click the "Fork" button.
-
-2. **Clone Your Fork**: Clone the forked repository to your local machine.
-
-3. **Modify the README.md**: Add your Frame to the `Compatible Frames` section. Follow the formatting used by other entries in the list.
-
-4. **Commit and Push Your Changes**: Commit the changes to your fork and push them.
-
-5. **Create a Pull Request**: Navigate to the original Awesome-Open-Frames repository on GitHub. You should see an option to create a pull request based on the changes you pushed to your fork. Fill out the necessary details and submit the PR.
-
-### Step 3: Send Your Frame via DM
-
-1. **Access XMTP**: Go to the any of the apps listed in the [Compatible Applications](https://github.com/open-frames/awesome-open-frames?tab=readme-ov-file#compatible-messaging-apps)
-
-2. **Connect Your Wallet**: Follow the prompts to connect your Ethereum wallet. Make sure you're using the wallet address that you want to be contacted.
-
-3. **Send a DM**: Compose a new message to `hi.xmtp.eth`. In the message, include a link to your Frame and mention that you've added it to the Compatible Frames section.
-
-### Step 4: Wait for Contact
-
-After completing the above steps, our team will contact you through the provided wallet address and send the payment in USDC through XMTP.
+- To add your Frame to the Compatible Frames section, fork the [Awesome-Open-Frames Repo](https://github.com/open-frames/awesome-open-frames), clone it, update the README.md with your Frame, commit and push your changes, then submit a pull request.
+- To submit your Frame, access any XMTP app from the [Compatible Applications](https://github.com/open-frames/awesome-open-frames?tab=readme-ov-file#compatible-messaging-apps), connect your Ethereum wallet, and send a DM to `hi.xmtp.eth` with a link to your Frame, indicating its addition to the Compatible Frames section.

@@ -9,7 +9,7 @@ First, you need to add the specified metadata to your Frame. Based on the provid
 **HTML**
 
 ```html
-<meta property="of:accepts:xmtp" content="2024-02-01" />
+<meta property="of:accepts:xmtp" content="vNext" />
 ```
 
 **OnChainKit**
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {/*Your frame metadata*/},
   other: {
     ...frameMetadata,
-    'of:accepts:xmtp': '2024-02-01', // Ensure this line is added or updated
+    'of:accepts:xmtp': 'vNext', // Ensure this line is added or updated
   },
 };
 ```

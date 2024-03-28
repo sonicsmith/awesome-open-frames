@@ -19,7 +19,7 @@ Open Frames is an interoperable [standard](https://github.com/open-frames/standa
 > 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
 > 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
 >
-> For a detailed guide, check out [Start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
+> For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
 
 ### Example frames
 

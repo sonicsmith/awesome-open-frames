@@ -50,6 +50,10 @@ const handleRequest = frames(async (ctx) => {
 
 _For comprehensive guidance on integrating Open Frames with Framesjs, refer to the official [documentation](https://framesjs.org/reference/js/xmtp)._
 
+**Frog**
+
+Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
+
 ### Step 2: Verifying requests
 
 To start, add the necessary XMTP packages to your project:
@@ -90,10 +94,6 @@ export function handler(requestBody: any) {
   }
 }
 ```
-
-**Frog**
-
-Currently, Frog does not officially support Open Frames. However, a temporary solution can be found in this [discussion](https://github.com/wevm/frog/discussions/51) regarding making Frog compatible.
 
 ### Next steps
 

@@ -97,6 +97,6 @@ export function handler(requestBody: any) {
 
 ### Next steps
 
-- Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).\_
+- Go here learn more about the Open Frames [specification](https://github.com/open-frames/standard).
 - To add your Frame to the Compatible Frames section, fork the [Awesome-Open-Frames Repo](https://github.com/open-frames/awesome-open-frames), clone it, update the README.md with your Frame, commit and push your changes, then submit a pull request.
 - To submit your Frame, access any XMTP app from the [Compatible Applications](https://github.com/open-frames/awesome-open-frames?tab=readme-ov-file#compatible-messaging-apps), connect your Ethereum wallet, and send a DM to `hi.xmtp.eth` with a link to your Frame, indicating its addition to the Compatible Frames section.

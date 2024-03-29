@@ -73,7 +73,6 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 
 - [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
-- [Neynar](https://warpcast.com/rish/0x6ee0f33b): Neynar builder supports Open Frames
 - [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
 
 ### Other Resources
@@ -102,6 +101,7 @@ This dApps & protocols & tooling already support the Open Frames standard.
 - [Paragraph](https://paragraph.xyz)
 - [Launchcaster](https://www.launchcaster.xyz)
 - [Holder](https://www.holder.xyz/)
+- [Neynar](https://warpcast.com/rish/0x6ee0f33b): Neynar builder supports Open Frames
 
 And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onchainletters.xyz) | [UFO News](https://news.ufo.fm) | [RWX](https://rwx.mrjonkane.com) | [Power Law Systems](https://powerlaw.systems) | [Frameboard](https://www.frameboard.com) | [Solo Salon](https://solosalon.clinamenic.com) | [Derek Brown](https://derekbrown.xyz) | [Zine](https://zine.shamesoiree.com) | [Fabrica](https://blog.fabrica.land) | [ShortURL](https://shorturl.at) | [Wibtal](https://wibtal.com) | [Mark McClure](https://markmcclure.xyz) | [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app) | [Jared Hecht](https://jaredhecht.com) | [Luc.cx](https://luc.cx) | [0xPratik](https://0xpratik.com) | [Teji](blog.teji.io) | [Framify.xyz](https://framify.xyz)
 

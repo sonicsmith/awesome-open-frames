@@ -12,6 +12,7 @@ Getting started with Open Frames is very easy. You need to go through 2 steps:
 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility.
 
 - For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
+- For more information go to the official [specification](https://github.com/open-frames/standard).
 
 ## Example frames
 

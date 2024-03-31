@@ -27,11 +27,11 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game.
 - [2048 Game Frame](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
-- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout.
+- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + Base checkout.
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [Peace for colors](https://github.com/rtomas/peace-frame-farcaster): Peace for colors artwork.
 - [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
-- [Red Envelope](https://devfolio.co/projects/red-envelope-fe1a):A fast, gamified, and socially engaging onchain token gifting experience using Frames on XMTP and powered by FHE on Inco Network.
+- [Red Envelope](https://devfolio.co/projects/red-envelope-fe1a):A fast, gamified, and socially engaging onchain token gifting experience using Frames on XMTP.
 - [tvl_data_in_timeswap](https://github.com/HrithikSampson/TVL_History): View the Total Value locked in Timeswap Liquidity Pool.
 - [Mint-A-Cast](https://github.com/jamiechicago312/frameworks-ri-ja): Mint any cast into an NFT with this frame.
 - [meme-coin-snipe-frame](https://github.com/golryang/meme-coin-snipe-frame-frontend): Meme coin snipe on frame.

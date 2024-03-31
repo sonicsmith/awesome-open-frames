@@ -86,6 +86,14 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 
 ---
 
+### Media Mentions
+
+Here are some notable mentions:
+
+- [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)
+
+---
+
 ### Ecosystem Partners
 
 - [Privy](https://privy.io/)
@@ -93,11 +101,3 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 - [Airstack](https://www.airstack.xyz/)
 - [Livepeer](https://livepeer.org/)
 - [Bountycaster](https://www.bountycaster.xyz/)
-
----
-
-### Media Mentions
-
-Here are some notable mentions:
-
-- [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)

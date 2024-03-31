@@ -75,7 +75,7 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 - [Holder](https://www.holder.xyz/): Holder no-code builders allows to broadcast frames.
 - [Neynar](https://warpcast.com/rish/0x6ee0f33b): Neynar builder supports Open Frames
 
-### Implementation Supporters
+### Other integrations
 
 This dApps & protocols & tooling already support the Open Frames standard.
 

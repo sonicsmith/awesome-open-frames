@@ -2,6 +2,16 @@
 
 Welcome to the Open Frames Bounty Program! 🚀 If you're passionate about interoperability and eager to make your Frame a part of the ever-growing Open Frames ecosystem, you're in the right place. By following the steps you will enhance your Frame with the necessary metadata for Open Frames compatibility, according to this [standard](https://github.com/open-frames/standard). Let's dive in!
 
+> 💸 **Open Frames Bounty Program**
+>
+> We're offering a $100 bounty for developers who achieve 3 goals:
+>
+> 1. Make your Frame interoperable with the Open Frames standard.
+> 2. Add your Frame to the `Example Frames` section in this repo via a PR.
+> 3. Send your frame via a DM to `hi.xmtp.eth` through one of the `Applications` section.
+>
+> Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
+
 ### Step 1: Modify the Metadata in Your Frame
 
 First, you need to add the specified metadata to your Frame. Based on the provided context, it looks like you're working with a TypeScript file in a project. Here's how you can add the metadata depending on your environment:

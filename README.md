@@ -1,29 +1,15 @@
-## Home
-
-Welcome to Awesome Open Frames! This project is an interoperable standard extending the original Frames specification to support a broader range of applications and protocols.
-
-For more information, navigate through the tabs above.
-
 # Awesome Open Frames
 
 Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
 
-> 💸 **Open Frames Bounty Program**
->
-> We're offering a $100 bounty for developers who achieve 3 goals:
->
-> 1. Make your Frame interoperable with the Open Frames standard.
-> 2. Add your Frame to the `Example Frames` section in this repo via a PR.
-> 3. Send your frame via a DM to `hi.xmtp.eth` through one of the `Applications` section.
->
-> Dive deeper into the details of the bounty by visiting [this link](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md). After submitting your Frame, wait for the funds to be received in USDC Base. We will notify you via DM.
+### Get started
 
-> 🚀 **Kickstart Your Journey with Open Frames** in two simple steps.
->
-> 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
-> 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
->
-> For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
+1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
+2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
+
+For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
+
+> 💰 Check the Open Frames open [Bounty Program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
 
 ### Example frames
 

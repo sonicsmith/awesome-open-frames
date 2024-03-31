@@ -2,10 +2,6 @@
 
 Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
 
-> 💰 Check the Open Frames open [Bounty Program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
-
-## Get started
-
 Getting started with Open Frames is very easy. You need to go through 2 steps:
 
 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
@@ -14,9 +10,11 @@ Getting started with Open Frames is very easy. You need to go through 2 steps:
 - For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
 - For more information go to the official [specification](https://github.com/open-frames/standard).
 
-## Example frames
+### Example frames
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
+
+> 💰 Check the Open Frames open [Bounty Program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
 
 - [Farguessr Frame](https://farguessr.vercel.app) - Guess the distance between 2 countries - daily or random game.
 - [Openframedl Frame](https://openframedl.vercel.app) - Wordle in a frame - daily or random game.

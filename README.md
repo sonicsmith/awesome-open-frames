@@ -6,10 +6,10 @@ Open Frames is an interoperable [standard](https://github.com/open-frames/standa
 
 ## Get started
 
+To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
+
 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
-
-To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
 - For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.

@@ -12,7 +12,7 @@ Open Frames is an interoperable [standard](https://github.com/open-frames/standa
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
 
-> 💰 Inegrate your frame and earn $100. Check out the [open bounty program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
+> 💰 Integrate your frame and earn $100. Check out the [open bounty program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
 
 - [Farguessr Frame](https://farguessr.vercel.app) - Guess the distance between 2 countries - daily or random game.
 - [Openframedl Frame](https://openframedl.vercel.app) - Wordle in a frame - daily or random game.
@@ -25,7 +25,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Farguessr](https://github.com/cryptods8/farguessr): Guess the distance between 2 countries - daily or random game.
 - [Openframedl](https://github.com/cryptods8/openframedl): Wordle in a frame - daily or random game.
-- [2048 Game Farme](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform.
+- [2048 Game Frame](https://github.com/Vamsieth/2048-frame) : Play 2048 game on any open frame compatible platform.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
 - [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout.
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
@@ -88,13 +88,11 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 
 ### Ecosystem Partners
 
-- [XMTP](https://xmto.org/)
-- [Converse](https://converse.xyz/)
-- [Framejs](https://framesjs.org/)
 - [Privy](https://privy.io/)
 - [Dynamic](https://www.dynamic.xyz/)
 - [Airstack](https://www.airstack.xyz/)
 - [Livepeer](https://livepeer.org/)
+- [Bountycaster](https://www.bountycaster.xyz/)
 
 ---
 

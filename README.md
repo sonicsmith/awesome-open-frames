@@ -55,8 +55,6 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 ---
 
-## Supporters
-
 ### Messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
@@ -65,26 +63,34 @@ Open Frames is designed to be universally compatible, with support from a wide r
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
 - [dev-inbox](https://github.com/xmtp/dev-inbox/): Dev focused messaging client that renders Frames.
 
-### Tooling
+### Frameworks
 
 Given the interoperable nature of Open Frames, each protocol has its unique method for handling payloads, making these tools invaluable for integration:
 
 - [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
+
+### Protocols
+
 - [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
 
-#### Implementation Supporters
+### No code tools
+
+- [Holder](https://www.holder.xyz/): Holder no-code builders allows to broadcast frames.
+- [Neynar](https://warpcast.com/rish/0x6ee0f33b): Neynar builder supports Open Frames
+
+### Implementation Supporters
 
 This dApps & protocols & tooling already support the Open Frames standard.
 
 - [Paragraph](https://paragraph.xyz): Paragraph newsletter can be displayed as Open Frames.
 - [Launchcaster](https://www.launchcaster.xyz): Launchcaster renders Open Frames in their launches.
-- [Holder](https://www.holder.xyz/): Holder no-code builders allows to broadcast frames.
-- [Neynar](https://warpcast.com/rish/0x6ee0f33b): Neynar builder supports Open Frames
 
 And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onchainletters.xyz) | [UFO News](https://news.ufo.fm) | [RWX](https://rwx.mrjonkane.com) | [Power Law Systems](https://powerlaw.systems) | [Frameboard](https://www.frameboard.com) | [Solo Salon](https://solosalon.clinamenic.com) | [Derek Brown](https://derekbrown.xyz) | [Zine](https://zine.shamesoiree.com) | [Fabrica](https://blog.fabrica.land) | [ShortURL](https://shorturl.at) | [Wibtal](https://wibtal.com) | [Mark McClure](https://markmcclure.xyz) | [NextJS Boilerplate](https://nextjs-boilerplate-xi-two-79.vercel.app) | [Jared Hecht](https://jaredhecht.com) | [Luc.cx](https://luc.cx) | [0xPratik](https://0xpratik.com) | [Teji](blog.teji.io) | [Framify.xyz](https://framify.xyz)
 
-#### Ecosystem Partners
+---
+
+### Ecosystem Partners
 
 - [XMTP](https://xmto.org/)
 - [Converse](https://converse.xyz/)
@@ -94,10 +100,10 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 - [Airstack](https://www.airstack.xyz/)
 - [Livepeer](https://livepeer.org/)
 
+---
+
 ### Media Mentions
 
 Here are some notable mentions:
 
 - [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)
-
----

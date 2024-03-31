@@ -2,16 +2,19 @@
 
 Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
 
-### Get started
+> 💰 Check the Open Frames open [Bounty Program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
+
+## Get started
 
 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility of your Frame's requests.
 
-For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
+To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
-> 💰 Check the Open Frames open [Bounty Program](https://github.com/open-frames/awesome-open-frames/blob/main/BOUNTY.md)
+- For a detailed guide, check out the [start](https://github.com/open-frames/awesome-open-frames/blob/main/START.md) document.
+- [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
 
-### Example frames
+## Example frames
 
 Several Frames have already adopted the Open Frames standard, showcasing the versatility and broad applicability of this specification. These include:
 
@@ -50,7 +53,11 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Framer](https://github.com/alekcangp/framer): The Farcaster Frame to building the Frames.
 - ⁠[Onthis Frame](https://github.com/Mr94t3z/onthis-frame): The Farcaster Frame for Creating and Swapping Shortcuts seamlessly integrates with https://create.onthis.xyz/.
 
-### Compatible messaging apps
+---
+
+## Supporters
+
+### Messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
 
@@ -65,25 +72,6 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 - [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
 - [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
 - [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
-
-### Other Resources
-
-To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
-
-- [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
-- [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
-
----
-
-### Media Mentions
-
-Here are some notable mentions:
-
-- [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)
-
----
-
-### Supporters
 
 #### Implementation Supporters
 
@@ -105,3 +93,11 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 - [Dynamic](https://www.dynamic.xyz/)
 - [Airstack](https://www.airstack.xyz/)
 - [Livepeer](https://livepeer.org/)
+
+### Media Mentions
+
+Here are some notable mentions:
+
+- [The state of frames + frames beyond Farcaster](https://mirror.xyz/albiverse.eth/8Uvsdgv9TTxnENFk90PRcIpiS20h_Av3_JkcVm7Yw2U)
+
+---

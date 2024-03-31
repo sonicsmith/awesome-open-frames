@@ -1,8 +1,6 @@
 # Awesome Open Frames
 
-Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
-
-Getting started with Open Frames is very easy. You need to go through 2 steps:
+Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols. Getting started with Open Frames is very easy. You need to go through 2 steps:
 
 1. **Update Your Frame's Metadata**: Ensure it aligns with Open Frames standards for seamless integration.
 2. **Verifying requests**: Familiarize yourself with your framework's documentation to validate and ensure compatibility.

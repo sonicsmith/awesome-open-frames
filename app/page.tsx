@@ -34,7 +34,6 @@ const frameMetadata = getFrameMetadata({
   ],
   image: {
     src: `${NEXT_PUBLIC_URL}/devcall.png`,
-    aspectRatio: '1:1',
   },
   postUrl: `${NEXT_PUBLIC_URL}/api/prs`,
 });

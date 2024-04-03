@@ -5,10 +5,22 @@ import { NEXT_PUBLIC_URL } from './config';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'Read more',
+      label: 'Learn more',
       action: 'link',
       target: `https://github.com/open-frames/awesome-open-frames`,
     },
+
+    {
+      label: 'Add to calendar',
+      action: 'link',
+      target: `https://xmtp.org/dev-call`,
+    },
+    {
+      label: 'Speakers',
+      action: 'link',
+      target: `https://xmtplabs.notion.site/Frames-O-Rama-Agenda-0160dca2eb2943c1ac9d32a6c096a546?pvs=4`,
+    },
+    /*
     {
       label: 'Go to bounty',
       action: 'link',
@@ -17,10 +29,11 @@ const frameMetadata = getFrameMetadata({
     {
       label: 'Bounty Status',
       action: 'post',
-    },*/,
+    },*/
+    ,
   ],
   postUrl: `${NEXT_PUBLIC_URL}/api/prs`,
-  image: `${NEXT_PUBLIC_URL}/picture.png`,
+  image: `${NEXT_PUBLIC_URL}/devcall.png`,
 });
 
 export const metadata: Metadata = {
@@ -29,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Awesome Open Frame',
     description: 'Interoperable Frames',
-    images: [`${NEXT_PUBLIC_URL}/picture.png`],
+    images: [`${NEXT_PUBLIC_URL}/devcall.png`],
   },
   other: {
     ...frameMetadata,
@@ -40,7 +53,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <img src={'/picture.png'} />
+      <img src={'/devcall.png'} />
     </>
   );
 }

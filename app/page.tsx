@@ -13,12 +13,12 @@ const frameMetadata = getFrameMetadata({
       label: 'Add to calendar',
       action: 'link',
       target: `https://xmtp.org/dev-call`,
-    },
+    } /*
     {
       label: 'Speakers',
       action: 'link',
       target: `https://xmtplabs.notion.site/Frames-O-Rama-Agenda-0160dca2eb2943c1ac9d32a6c096a546?pvs=4`,
-    },
+    },*/,
     /*,
     {
       label: 'Go to bounty',

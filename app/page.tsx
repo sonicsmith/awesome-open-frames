@@ -9,7 +9,6 @@ const frameMetadata = getFrameMetadata({
       action: 'link',
       target: `https://github.com/open-frames/awesome-open-frames`,
     },
-
     {
       label: 'Add to calendar',
       action: 'link',
@@ -20,7 +19,7 @@ const frameMetadata = getFrameMetadata({
       action: 'link',
       target: `https://xmtplabs.notion.site/Frames-O-Rama-Agenda-0160dca2eb2943c1ac9d32a6c096a546?pvs=4`,
     },
-    /*
+    /*,
     {
       label: 'Go to bounty',
       action: 'link',
@@ -30,7 +29,6 @@ const frameMetadata = getFrameMetadata({
       label: 'Bounty Status',
       action: 'post',
     },*/
-    ,
   ],
   postUrl: `${NEXT_PUBLIC_URL}/api/prs`,
   image: `${NEXT_PUBLIC_URL}/devcall.png`,

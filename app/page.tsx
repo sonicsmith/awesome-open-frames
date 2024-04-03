@@ -5,14 +5,14 @@ import { NEXT_PUBLIC_URL } from './config';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'Learn more',
-      action: 'link',
-      target: `https://github.com/open-frames/awesome-open-frames`,
-    },
-    {
       label: 'Add to calendar',
       action: 'link',
       target: `https://xmtp.org/dev-call`,
+    },
+    {
+      label: 'Q&A',
+      action: 'link',
+      target: `https://community.xmtp.org/t/tue-apr-9-2024-frames-o-rama-post-a-question-or-topic/629`,
     } /*
     {
       label: 'Speakers',

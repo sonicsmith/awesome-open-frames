@@ -10,7 +10,7 @@ const frameMetadata = getFrameMetadata({
       target: `https://xmtp.org/dev-call`,
     },
     {
-      label: 'Learn more',
+      label: 'Ask a question',
       action: 'link',
       target: `https://community.xmtp.org/t/tue-apr-9-2024-frames-o-rama-post-a-question-or-topic/629`,
     } /*

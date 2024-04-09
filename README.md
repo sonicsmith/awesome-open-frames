@@ -57,6 +57,7 @@ Open Frames is designed to be universally compatible, with support from a wide r
 
 - [Converse](https://getconverse.app/): Own your conversations.
 - [Converse Web](https://app.converse.xyz/): Own you conversations. On the web.
+- [xmtp.chat](https://xmtp.chat/): XMTP web app messaging client that renders Frames.
 - [dev-inbox](https://github.com/xmtp/dev-inbox/): Dev focused messaging client that renders Frames.
 
 ### Frameworks

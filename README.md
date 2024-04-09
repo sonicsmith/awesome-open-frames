@@ -69,7 +69,7 @@ Given the interoperable nature of Open Frames, each protocol has its unique meth
 ### Protocols
 
 - [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP.
-- [Lens Protocol](https://github.com/defispartan/lens-frames/): Lens protocol Frame specification.
+- [Lens Protocol](https://github.com/defispartan/lens-frames/): Lens protocol Open Frame specification.
 
 ### No code tools
 
